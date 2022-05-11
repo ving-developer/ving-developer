@@ -7,8 +7,7 @@
 <br/>
 <br/>
 
-<h3 align="center" >Hi, i'm Ving!</h3>
-
+<hr/>
 <div style="display: inline_block" align="center">
   <img width="60" height="28" style="border-radius:50px;" src="https://img.shields.io/badge/C%23-663399?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img width="73" height="28" style="border-radius:50px;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -19,12 +18,16 @@
   <img width="85" height="28" style="border-radius:50px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img width="73" height="28" style="border-radius:50px;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
-
 <div style="display: inline_block" align="center">
   <img width="209" height="28" style="border-radius: .2em" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img width="128" height="28" style="border-radius: .2em" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img width="85" height="28" style="border-radius: .2em" src="https://img.shields.io/badge/MySQL-ED8B00?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+
+<br/>
+<br/>
+
+<h3 align="center" >Hi, i'm Ving!</h3>
 
 <p>
   A Full Stack Developer, with experience in various web/mobile development tools, i am always evolving.
