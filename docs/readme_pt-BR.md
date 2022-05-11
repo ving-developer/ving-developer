@@ -2,7 +2,7 @@
   <i class="flag flag-brazil"></i>
   <a href="/docs/readme_pt-BR.md">Português</a>
   ·
-  <a href="/docs/readme_it.md">English</a>
+  <a href="/README.md">English</a>
 </p>
 
 <br/>
