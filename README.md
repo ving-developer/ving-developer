@@ -1,4 +1,7 @@
+<p align="center"></p>
 <p align="center">
+  <span>🡇&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <br>
   <a href="#">English</a>
   ·
   <a href="/docs/readme_pt-BR.md">Português</a>
