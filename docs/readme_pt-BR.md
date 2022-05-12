@@ -1,5 +1,7 @@
 <p align="center">
   <i class="flag flag-brazil"></i>
+  <span>🡇&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <br>
   <a href="#">Português</a>
   ·
   <a href="/README.md">English</a>
