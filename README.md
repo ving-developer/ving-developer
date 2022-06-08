@@ -9,7 +9,7 @@
 
 <br/>
 <br/>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ving-developer&theme=algolia" alt="kartik-v" /></a> </p>
 <hr/>
 <div style="display: inline_block" align="center">
   <img width="60" height="28" style="border-radius:50px;" src="https://img.shields.io/badge/C%23-663399?style=for-the-badge&logo=c-sharp&logoColor=white"/>
