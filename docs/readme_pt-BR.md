@@ -1,15 +1,15 @@
 <p align="center">
   <i class="flag flag-brazil"></i>
-  <span>🡇&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🡇</span>
   <br>
-  <a href="#">Português</a>
+  <a href="#">English</a>
   ·
-  <a href="/README.md">English</a>
+  <a href="/README.md">Português</a>
 </p>
 
 <br/>
 <br/>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ving-developer&theme=algolia" alt="kartik-v" /></a> </p>
 <hr/>
 <div style="display: inline_block" align="center">
   <img width="60" height="28" style="border-radius:50px;" src="https://img.shields.io/badge/C%23-663399?style=for-the-badge&logo=c-sharp&logoColor=white"/>
