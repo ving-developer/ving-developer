@@ -2,9 +2,9 @@
   <i class="flag flag-brazil"></i>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🡇</span>
   <br>
-  <a href="#">English</a>
+  <a href="/README.md">English</a>
   ·
-  <a href="/README.md">Português</a>
+  <a href="#">Português</a>
 </p>
 
 <br/>
