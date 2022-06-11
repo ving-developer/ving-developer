@@ -72,9 +72,6 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ving-developer&show_icons=true&theme=algolia"/>
 </div>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ving-developer&title_color=red&layout=compact&langs_count=10&theme=algolia&card_width=428em"/>
-</div>
   
 <br/>
 <br/>
